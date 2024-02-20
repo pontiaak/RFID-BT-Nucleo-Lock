@@ -1,0 +1,4 @@
+com.example.android.bluetoothchat.test.Application-androidTest-0 /home/karto/Documents/AndroidStudio/Projects/Android_BluetoothClassic/Application/build/generated/res/resValues/androidTest/debug
+com.example.android.bluetoothchat.test.Application-mergeDebugAndroidTestResources-1 /home/karto/Documents/AndroidStudio/Projects/Android_BluetoothClassic/Application/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.android.bluetoothchat.test.Application-mergeDebugAndroidTestResources-2 /home/karto/Documents/AndroidStudio/Projects/Android_BluetoothClassic/Application/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.android.bluetoothchat.test.Application-merged_res-3 /home/karto/Documents/AndroidStudio/Projects/Android_BluetoothClassic/Application/build/intermediates/merged_res/debugAndroidTest

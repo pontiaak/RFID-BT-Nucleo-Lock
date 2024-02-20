@@ -1,0 +1,4 @@
+#Mon Nov 06 09:05:47 CET 2023
+base.0=/home/karto/Documents/AndroidStudio/Projects/Android_BluetoothClassic/Application/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
