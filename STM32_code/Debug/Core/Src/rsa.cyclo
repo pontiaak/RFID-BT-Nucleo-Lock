@@ -1,0 +1,7 @@
+../Core/Src/rsa.c:23:11:gcd	2
+../Core/Src/rsa.c:33:11:ExtEuclid	2
+../Core/Src/rsa.c:43:25:modmult	8
+../Core/Src/rsa.c:78:11:rsa_modExp	6
+../Core/Src/rsa.c:97:6:rsa_gen_keys	2
+../Core/Src/rsa.c:134:12:rsa_encrypt	4
+../Core/Src/rsa.c:152:7:rsa_decrypt	6
